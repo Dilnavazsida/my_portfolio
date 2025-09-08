@@ -7,20 +7,17 @@
     </head>
     <body>
       
-    <nav class="navbar navbar-expand-lg navbar-light bg-dark nav-clr" style="" >
-    <a class="navbar-brand first" id="fno" href="/home">Home</a>
+     <nav class="navbar navbar-expand-lg navbar-light bg-dark nav-clr" style="" >
+            <a class="navbar-brand first" id="fno" href="/home">Home</a>
  
-  <div class="collapse navbar-collapse" id="navbarNavAltMarkup">
-    <div class="navbar-nav" >
-      <a class="nav-item nav-link  second" id="fno"  href="/work">Work</a>
-      <a class="nav-item nav-link  third" id="fno" href="/skill">Skill</a>
-      <a class="nav-item nav-link four" id="fno" href="/contact">Contact</a>
-      <a class="nav-item nav-link  five" id="fno" href="/about">About</a>
-    </div>
-  </div>
-</nav>
-
-
-
-    </body>
+          <div class="collapse navbar-collapse" id="navbarNavAltMarkup">
+                <div class="navbar-nav" >
+                  <a class="nav-item nav-link  second" id="fno"  href="/work">Work</a>
+                  <a class="nav-item nav-link  third" id="fno" href="/skill">Skill</a>
+                  <a class="nav-item nav-link four" id="fno" href="/contact">Contact</a>
+                  <a class="nav-item nav-link  five" id="fno" href="/about">About</a>
+                </div>
+          </div>
+     </nav>
+ </body>
 </html>
